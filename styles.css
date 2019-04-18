@@ -1,0 +1,26 @@
+title{
+  color: brown;
+  text-align: center;
+  font-size: 45%;
+}
+h1 {
+    color: blue
+    text-align: center;
+}
+h2{
+  color: blue;
+  font-style: italic;
+  text-align: center;
+}
+p{
+  font-family: sans-serif;
+}
+ul{
+  line-height: 40px;
+}
+body{
+  /* background-color: purple; */
+  background-image: url("file:///home/kennedy/Downloads");
+  font-style: italic;
+  text-decoration-style: wavy;
+}
